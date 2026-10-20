@@ -1,16 +1,15 @@
-## Hi there 👋
+# Sameer "SaM18"
 
-<!--
-**sameerkumarsahu2006-dev/sameerkumarsahu2006-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Cybersecurity Engineer | Developer | CTF Player**
 
-Here are some ideas to get you started:
+I build tools, explore systems, and learn security through hands-on practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** C · C++ · Go · Python · Oracle SQL  
+**Security:** CTFs · Linux · Web Security · SQL Injection Labs  
+**Currently Learning:** Go tooling · DSA · Networking · Offensive Security
+
+**Experience:** Organised and volunteered at an IBM hackathon at NFSU.
+
+**Interests:** Security Tooling · Systems Programming · Vulnerability Research
+
+*Build. Break. Understand. Secure.*
