@@ -1,16 +1,14 @@
 # Sameer 
 
+**Cybersecurity | Systems Programming | Security Tooling**
 
-**Aspiring Cybersecurity Engineer | Developer | CTF Player**
-
-I build tools, explore systems, and learn security through hands-on practice.
+Exploring how systems work, how vulnerabilities emerge, and how to build tools that make systems more secure.
 
 **Languages:** C · C++ · Go · Python · Oracle SQL  
-**Security:** CTFs · Linux · Web Security · SQL Injection Labs  
-**Currently Learning:** Go tooling · DSA · Networking · Offensive Security
+**Security:** Linux · CTFs · Web Security Labs  
+**Learning:** DSA · Networking · Go Tooling
 
-**Experience:** Organised and volunteered at an IBM hackathon at NFSU.
+### Projects
+*Building practical tools and documenting what I learn.*
 
-**Interests:** Security Tooling · Systems Programming · Vulnerability Research
-
-*Build. Break. Understand. Secure.*
+*Build. Understand. Secure.*
