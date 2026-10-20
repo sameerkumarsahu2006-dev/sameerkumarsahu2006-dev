@@ -1,4 +1,5 @@
-# Sameer "SaM18"
+# Sameer 
+
 
 **Aspiring Cybersecurity Engineer | Developer | CTF Player**
 
